@@ -1,4 +1,5 @@
 /*THIS CODE WILL CHANGE YOUR LIGHT MODE TO DARK MODE*/
+/*you can change color platelete*/
 <!DOCTYPE html>
 </html>
 <head>
