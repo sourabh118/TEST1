@@ -1,3 +1,4 @@
+/*THIS CODE WILL CHANGE YOUR LIGHT MODE TO DARK MODE*/
 <!DOCTYPE html>
 </html>
 <head>
